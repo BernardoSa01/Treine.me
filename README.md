@@ -31,13 +31,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-<p align="center">
-O TreineMe é uma aplicação web simulando uma consultoria de personal trainer online, que monta treinos exclusivos e personalizados para alunos que desejam aumentar sua performance e, em paralelo, melhorar sua qualidade de vida.<br/></p>
+- <p align="center">O TreineMe é uma aplicação web simulando uma consultoria de personal trainer online, que monta treinos exclusivos e personalizados para alunos que desejam aumentar sua performance e, em paralelo, melhorar sua qualidade de vida.<br/></p><br/>
 
-<p align="center">Programa tem por finalidade reforçar os conceitos básicos de HTML e CSS, ratificando a importância da correta utilização de tags semânticas, utilizando a aplicação de botões interativos, e corroborando a necessidade de melhorias na acessibilidade e refatoração. <br/><br/>
-Além disso, destaca-se a relevância do aprendizado da ferramenta FIGMA, aliada importante nas tarefas propostas pelo projeto.
+- <p align="center">Programa tem por finalidade reforçar os conceitos básicos de HTML e CSS, ratificando a importância da correta utilização de tags semânticas, utilizando a aplicação de botões interativos, corroborando a importância da acessibilidade e aprimorando a ideia de refatoração. <br/><br/></p>
+
+- <p align="center">Além disso, destaca-se a relevância do aprimoramento no aprendizado da ferramenta FIGMA, aliada importante nas tarefas propostas pelo programa.
 </p>
-- [Acesse o projeto finalizado, online]
+
+ - [Acesse o projeto finalizado, online](https://bernardosa01.github.io/Treine.me/)
 
 
 ## 🔖 Layout
